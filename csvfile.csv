@@ -1,4 +1,8 @@
 
 Test csvfile
+<<<<<<< HEAD
 Changing csvfile in branch after changing in feature1
 
+=======
+Changing file in branch feature1
+>>>>>>> feature1
